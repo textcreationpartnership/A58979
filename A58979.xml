@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second letter to a member of this present Parliament against comprehension by the author of the former Letter for liberty of conscience.</title>
+            <author>Author of the former Letter for liberty of conscience.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58979</idno>
+            <idno type="STC">Wing S2286</idno>
+            <idno type="STC">ESTC R16269</idno>
+            <idno type="EEBO-CITATION">11929046</idno>
+            <idno type="OCLC">ocm 11929046</idno>
+            <idno type="VID">51070</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51070)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 511:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second letter to a member of this present Parliament against comprehension by the author of the former Letter for liberty of conscience.</title>
+                  <author>Author of the former Letter for liberty of conscience.</author>
+               </titleStmt>
+               <extent>10, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First edition.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Comprehension.</term>
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51070:1"/>
+            <!-- PDF PAGE 104 -->
+            <pb facs="tcp:51070:1"/>
+            <!-- PDF PAGE 104 -->
+            <p>A SECOND LETTER TO A MEMBER Of this Preſent PARLIAMENT, AGAINST Comprehenſion.</p>
+            <p>By the Author of the former Letter for Liberty of Conſcience.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:51070:2"/>
+            <!-- PDF PAGE 105 -->
+            <pb n="3" facs="tcp:51070:2"/>
+            <!-- PDF PAGE 105 -->
+            <head>A Second Letter TO A MEMBER Of this preſent PARLIAMENT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Conceive an univerſal indulgence in Point of Religion not only to be advan<g ref="char:EOLhyphen"/>tagious to the Trade and ſtrength of this Nation, and agreeable to the ſug<g ref="char:EOLhyphen"/>geſtions of each private mans breaſt, as well as natural Juſtice, and the deter<g ref="char:EOLhyphen"/>minations of the Scripture and primitive Church: but it is particularly prudential to his Majeſty that now Reigns. For, whatever ſome perſons may ſay, all Mo<g ref="char:EOLhyphen"/>narchies ſubſiſt by the counter-ballance of Factions; and he who muſt ſee with other peoples eyes, and hear with their ears, and act by their Councils, (as great Mo<g ref="char:EOLhyphen"/>narchs muſt alwayes do) becomes obnoxious, and a prey to his followers, and Counſellors, if they too ſtrict<g ref="char:EOLhyphen"/>ly
+<pb n="4" facs="tcp:51070:3"/>
+               <!-- PDF PAGE 106 -->correſpond. During the Miniſtry of the late <hi>Chan<g ref="char:EOLhyphen"/>cellour</hi> how palpably was this truth ſeen! How did he uſurp not only all Power unto himſelf, but even the o<g ref="char:EOLhyphen"/>ſtentation of it; and having by the uniformity of the Church obliged to his Sentiments the Biſhops, how did he eſtabliſh himſelf, and ſeparate the Church of <hi>England</hi> from that correſpondence which it ought to have had with its Head? In the like manner almoſt, when the Biſhops under Queen <hi>Elizabeth</hi> abandoned the Intereſt of the Crown to purſue that of the Pope, that excellent Queen had been deprived of all Sove<g ref="char:EOLhyphen"/>raignty thereupon, had ſhe not fomented the Puritan-Party. And it is very remarkable that ſhe was very well ſerved in her Wars, and in her Councils, as long as ſhe upheld the two Partyes of Puritans and Conformiſts in ſome ballance; but after that ſhe ſuffered the Epiſco<g ref="char:EOLhyphen"/>pal Party to depreſs the other, and almoſt totally ſub<g ref="char:EOLhyphen"/>vert it, ſhe was neither well ſerved any where, nor much regarded: Her Biſhops forgot their Paſtoral Cures; her Clergy grew lazy and diſſolute; the Papiſts increaſed; the Proteſtant Religion declin'd; and ſhe lived to ſee her ſelf as little regarded, as is the declining Sun: Whilſt deſpair drove the Puritans to Court the preſumptive Heir: and the growing hopes of the Papiſts directed them alſo thitherwards to ſecure their growth; and Prudence or Court-ſubtilty made thoſe into whoſe Power ſhe had put her ſelf to forecaſt how they might continue with her ſucceſſor thoſe Dignities and Emo<g ref="char:EOLhyphen"/>luments her favour had promoted them unto, and her indiſcretion had incapacitated her of beſtowing upon others. This ſhe too late diſcovered, and repented of when it was too late to redreſs it: Albeit ſhe had en<g ref="char:EOLhyphen"/>deavoured by all means to obſcure the pretences of all Heirs apparent, and intrigue the Succeſſion as far as it lay in her Power. I do therefore ſay it is peculiarly neceſſary for a Monarch to eſtabliſh his authority by
+<pb n="5" facs="tcp:51070:3"/>
+               <!-- PDF PAGE 106 -->ſuch a ballance of Factions, as many Pſeudo-Politicians decry now, who little apprehend how undeniable a Truth this is in a Monarchy ſupported by Laws and not Armes; and in which the ſupream Authority is more mixed then in deſpotical Governments, and yet in the laſt ſort of Governments this courſe is prudential.</p>
+            <p>And further, Liberty of Conſcience will infinitely contribute to the ſecurity of his Majeſties Government. Upon this account the Nation is very well ſatisfied with him, as it is evident by their acquieſcing, notwithſtand<g ref="char:EOLhyphen"/>ing the ſeveral opportunities, which the Landing of the <hi>Dutch,</hi> the Fire of <hi>London,</hi> and other junctures of affairs preſented them with. How willingly have they paid their Taxes? How couragiouſly have ſeveral that were Sectaries fought againſt the <hi>Dutch?</hi> Beſides, the falſhood and baſeneſs of their former Leaders, hath made the followers of the ſeveral Parties ſo jealous of them, that they would willingly abandon all thoſe ſuſpicious adhaerencies, to live peaceably according to their Con<g ref="char:EOLhyphen"/>ſciences under his Majeſty: not being willing to be cheated a ſecond time by ſpecious pretences. And this is a thing evident to any that ſhall conſider how the lead<g ref="char:EOLhyphen"/>ing Perſons of <hi>England</hi> have loſt their followers, ſo as not to be able to engage them implicitly to any action, or fix them to follow their fortune by any perſonal af<g ref="char:EOLhyphen"/>fection. If it be thus; why do you go about to give theſe perſons a ſtrength, and force under their ſhelter a Party ſo formidable, whether they will or no? Theſe great, theſe leading perſons, that now ſeem ſo powerful will be but ſo many ſingle perſons, and of a ſuſpected honeſty, if you eſtabliſh but Liberty of Conſcience. All Parties will adhere to the King as their Patron, to the Monarchy as their Protection, and avoyd a Common<g ref="char:EOLhyphen"/>wealth, which can never be eſtabliſhed by men of ſo cor<g ref="char:EOLhyphen"/>rupt Principles, as thoſe old Leaders of theirs have ſhewed themſelves to be.</p>
+            <p>
+               <pb n="6" facs="tcp:51070:4"/>
+               <!-- PDF PAGE 107 -->
+I ſhall now preſent you with thoſe further conſide<g ref="char:EOLhyphen"/>rations (I promiſed you) about <hi>Comprehenſion</hi> upon equivocal ſubſcriptions and condeſcentions; and illu<g ref="char:EOLhyphen"/>ſtrate further the ineffectualneſs of general Confeſſions to be ſubſcribed unto. Conſider that when the Queſtion about the Divinity of Chriſt was fiercely agitated in the Church, there was a Council called at <hi>Nice</hi>
+               <note n="†" place="margin">All this is manifeſt out of the Hyſto<g ref="char:EOLhyphen"/>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of thoſe times: parti<g ref="char:EOLhyphen"/>cularly out of <hi>Mariana</hi> his <hi>Spaniſh</hi> Hiſto<g ref="char:EOLhyphen"/>ry: and the Writings of St <hi>Hilary,</hi> who was an enemy to the <hi>Arrians,</hi> and lived in thoſe times.</note>, where the <hi>Nicene</hi> Creed was made: Three hundred and eigh<g ref="char:EOLhyphen"/>teen Biſhops there did determine the controverſie, and framed a Creed, to which all that were accounted Or<g ref="char:EOLhyphen"/>thodox ſhould ſubſcribe. This was ſo far from eſtabliſh<g ref="char:EOLhyphen"/>ing the peace of the Empire, that it divided it more. The <hi>Arrians</hi> got another general Council at <hi>Ariminum</hi>
+               <note n="†" place="margin">All this is manifeſt out of the Hyſto<g ref="char:EOLhyphen"/>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of thoſe times: parti<g ref="char:EOLhyphen"/>cularly out of <hi>Mariana</hi> his <hi>Spaniſh</hi> Hiſto<g ref="char:EOLhyphen"/>ry: and the Writings of St <hi>Hilary,</hi> who was an enemy to the <hi>Arrians,</hi> and lived in thoſe times.</note>, and there determined the Poynt quite otherwiſe concerning the Trinity; and by 630 Biſhops decreed another Creed and Teſt of Orthodoxy. This uniformity was as troubleſome to the prevailing <hi>Arrians,</hi> as the other had been to the Orthodoxarians. After this another Council was called at <hi>Sirmium</hi>
+               <note n="†" place="margin">All this is manifeſt out of the Hyſto<g ref="char:EOLhyphen"/>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of thoſe times: parti<g ref="char:EOLhyphen"/>cularly out of <hi>Mariana</hi> his <hi>Spaniſh</hi> Hiſto<g ref="char:EOLhyphen"/>ry: and the Writings of St <hi>Hilary,</hi> who was an enemy to the <hi>Arrians,</hi> and lived in thoſe times.</note>, there <hi>Hoſius,</hi> Biſhop of <hi>Corduba</hi> did publickly ask forgiveneſs for having trou<g ref="char:EOLhyphen"/>bled the Church with the diſputes about the Triuity, and the diſtinctions of Eſſence and Perſon in the Deity. Another kind of comprehenſive Creed was framed, to which both Partyes might agree, and be reputed Ortho<g ref="char:EOLhyphen"/>dox
+<note n="†" place="margin">All this is manifeſt out of the Hyſto<g ref="char:EOLhyphen"/>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of thoſe times: parti<g ref="char:EOLhyphen"/>cularly out of <hi>Mariana</hi> his <hi>Spaniſh</hi> Hiſto<g ref="char:EOLhyphen"/>ry: and the Writings of St <hi>Hilary,</hi> who was an enemy to the <hi>Arrians,</hi> and lived in thoſe times.</note>. But behold the fate of this Comprehenſion! neither Party was ſatisfied; neither Party abandoned their Sentiments; but grew up as Factions, and the Empire was divided, and diſtracted, and weakned, till <hi>Theodoſius</hi> the great reſtored a perfect Liberty of Con<g ref="char:EOLhyphen"/>ſcience: and the very memory of the Council of <hi>Sirmi<g ref="char:EOLhyphen"/>um,</hi> and it's <hi>Comprehenſive</hi> Creed, is almoſt totally ex<g ref="char:EOLhyphen"/>tinguiſhed.</p>
+            <p>I will trouble you with another inſtance under <hi>Charles</hi> the fifth, when the <hi>Lutherans, Zuinglians, Calviniſts, Carolſtadians, Anabaptiſts,</hi> and other Sects divided and diſtracted the <hi>Popiſh Empire</hi> of <hi>Germany:</hi>
+               <pb n="7" facs="tcp:51070:4"/>
+               <!-- PDF PAGE 107 -->after ſundry Warrs and Factions which weakned the <hi>Empire</hi> againſt the <hi>Turks</hi> and other neighbouring Ene<g ref="char:EOLhyphen"/>mies, ſeveral conferences were had, as betwixt <hi>Bucer</hi> and <hi>Julius Pflugg;</hi> betwixt <hi>Luther</hi> and <hi>Cardinal Cajetan,</hi> and others about ſome way of moderation for healing thoſe <hi>Eccleſiaſticall</hi> breaches: Several things were condeſcended unto on both ſides, and forms agreed unto ſometimes in order to a mutual accom<g ref="char:EOLhyphen"/>modation of that Schiſme. But with what ſucceſs? Each party thought the other rather to deſign the ſub<g ref="char:EOLhyphen"/>verſion then Converſion of the other; each was jea<g ref="char:EOLhyphen"/>lous of the other that they would but temporiſe at beſt; and perhaps only make uſe of thoſe ambiguous conceſſions, or condeſcentions, to the prejudice of the other: So that they alwayes became ineffectual. At length ſome moderate and Pious perſons contriv'd a mixed Religion out of <hi>Popery</hi> and <hi>Proteſtancy,</hi> in which Godly <hi>Melanchton,</hi> as well as <hi>Caſſander,</hi> had an hand; but this diſpleaſed all parties, and the intereſted perſons in framing of it became hated and deteſted by their fol<g ref="char:EOLhyphen"/>lowers. How many ſucceſſeleſs contrivances have there been to reconcile the <hi>Lutherans</hi> and <hi>Calviniſts;</hi> and have not both Parties at laſt found that the moſt aſſured way for them to live peaceably together, was not to confound the two partyes by uniting Churches, but by living comfortably together under different Confeſſions, Ceremonies, and Church-Government? Put caſe here in <hi>England</hi> ſome <hi>Presbiterian</hi> Miniſters, that are now leaders of that party, ſhould be admit<g ref="char:EOLhyphen"/>ted into the Miniſtry upon ſuch conditions as have been propoſed: Can any man who knows that party imagine the peace of this Nation ſecured? Nay, can any man think it ſo ſecure as it is now? If theſe poſt<g ref="char:EOLhyphen"/>liminary Divines muſt declare they conform to the Ser<g ref="char:EOLhyphen"/>vice, and leſs offenſive Ceremonies, and <hi>Epiſcopacy,</hi> as convenient in themſelves; or only becauſe impoſed,
+<pb n="8" facs="tcp:51070:5"/>
+               <!-- PDF PAGE 108 -->though otherwiſe a <hi>Directory,</hi> and the old <hi>Synodical</hi> way were better? If the former, then they conform only as ſo many ſingle perſons, and the acqueſts of ſuch men is not worthy of the conceſſions; If the latter; it is e<g ref="char:EOLhyphen"/>vident, that the peace of the Nation is more endange<g ref="char:EOLhyphen"/>red then ever, when we give a ſort of men opportu<g ref="char:EOLhyphen"/>nity to inform the ſouls incharged to them, that <hi>E<g ref="char:EOLhyphen"/>piſcopacy</hi> is uſeleſs, and of humane (if not Antichri<g ref="char:EOLhyphen"/>ſtian) conſtitution; that all theſe Ceremonyes and the Service of the Church are unneceſſary and imperti<g ref="char:EOLhyphen"/>nent, or ſteril acts of Devotion, to which they ſubmit on no better terms then <hi>Peter du Moulin</hi> offered to Preach the reformed Religion upon at <hi>Rome;</hi> he avowed he would be content to Preach in a fooles Coat ſo the <hi>Pope</hi> would but let him Preach there. If they give their flocks this teſtimony of their Zeal, that they will upon ſuch difficult termes ſubmit to become their Paſtors: Let every man examine if it will not una<g ref="char:EOLhyphen"/>voidably follow that theſe obliged Pariſhoners ſhall indeavour to diſcharge their Paſtors from ſuch impoſi<g ref="char:EOLhyphen"/>tions as are burthenſome to them <hi>in carrying on the work of the Lord;</hi> and hinder them in that edification, unto which were theſe <hi>Epiſcopal</hi> Courts, and Church Cere<g ref="char:EOLhyphen"/>monies, and Service removed: Or can we think am<g ref="char:EOLhyphen"/>bition, or pretenſes of Zeal will be ſo extinguiſhed in them, that they will not go about to ſignalize them<g ref="char:EOLhyphen"/>ſelves in their old formalities <hi>of propagating the Goſpel,</hi> whereby to draw upon them the eyes of the Nation for their exemplary pains and Piety? and if this hap<g ref="char:EOLhyphen"/>pen, what circumſtances is the Government of this Na<g ref="char:EOLhyphen"/>tion reduced unto? If they be preferred, the National Church of <hi>England,</hi> is ruined, and all the Gentry and Nobility: If they be not, then what clamours muſt we expect from the populace for the contempt and diſregard of Godly and Orthodox men? I conceive the beſt way to avoid theſe difficulties, is by eſtabliſh<g ref="char:EOLhyphen"/>ing
+<pb n="9" facs="tcp:51070:5"/>
+               <!-- PDF PAGE 108 -->the Church of <hi>England</hi> as it is, with its publick emoluments and honours, with the due regulation of the <hi>Epiſcopal Clergy,</hi> the diſcountenancing of <hi>Arminianiſme,</hi> and a pious and laborious Catechiſing, I am confident one age will reſtore us to our ancient glory: It is but juſt that publick Churches ſhould be like publick High-wayes, at the Kings diſpoſal, and not for every man to build upon: So the demeſnes and revenues be<g ref="char:EOLhyphen"/>longing thereto, ought to be continued without grudg<g ref="char:EOLhyphen"/>ing: ſince no particular man is damnified by them: The Tithes are no particular mans loſs; being not bought, nor ſold, nor any part of his leaſe: So that no Sect ought to refuſe this payment. But, continu<g ref="char:EOLhyphen"/>ing this, let them maintain their Teachers and Church<g ref="char:EOLhyphen"/>es themſelves, if they will decline the publick aſſem<g ref="char:EOLhyphen"/>blyes of the Engliſh Church. By this Toleration we ſhall reap theſe benefits: Firſt, the <hi>Epiſcopal Clergy</hi> will be reduced to a greater diligence in Preaching, and Catechiſing, a more exemplary life then is now found among them: Next the <hi>Preſbiterians</hi> and o<g ref="char:EOLhyphen"/>thers not having the diſpoſal of their Parſonages to their creatures, will not be able to give thoſe incou<g ref="char:EOLhyphen"/>ragements to them that are factiouſly bent, which they will have by this <hi>comprehenſion:</hi> And they will be ſo watched by the Sectaries on one hand (who muſt fall, if they riſe) and the Church of <hi>England</hi> on the other, as never to be able to ſway the ballance of this Nation. And the Sectaries will acknowledge their ſubſiſtance to be ſo dependant upon the proſperity of the Church of <hi>England,</hi> that they will reckon the enemies of the Church to be theirs. And all Parties will be zealous to protect and ſupport this ballance of the Nation, under this <hi>Monarchy,</hi> leaſt any other Governour or Govern<g ref="char:EOLhyphen"/>ment ſhould alter their condition: All will ſtrive to advance trade, all will ſtrive to ſerve ſo gracious a King, all will decline or indeavour to ſuppreſs any
+<pb n="10" facs="tcp:51070:6"/>
+               <!-- PDF PAGE 109 -->growing faction by which they may run an hazzard of ruine. No ambition will move the generality, who will have all they can deſire, except the power to op<g ref="char:EOLhyphen"/>preſs others: And for the Grandees, they muſt be quiet and publick ſpirited; when all pretences of grievances upon the people are removed: which is the only courſe they can take to inviegle a party to follow them, ſince all other obligations of villenage is extinct. Thus the King ſhall reign abſolutely over the perſons and hearts of his ſubjects; and be as much redoubted abroad, as beloved at home: Riches and plenty ſhall be the conſequences of his united ſtrength; unconſtrained piety ſhall flouriſh, hypocriſie vaniſh, and <hi>Morality</hi> be reſtored again. But if this courſe be not taken, the <hi>Dutch</hi> and <hi>New England</hi> will draw from us the trading and induſtrious part of our Nation, with their ſtocks: our reputation and forreign leagues will decline with our intereſt and ſtrength: Continual feares and jealouſies will poſſeſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Land; the <hi>Epiſcoparians</hi> will not be able to bear up againſt the <hi>Preſbyterians;</hi> and the Secta<g ref="char:EOLhyphen"/>ries will contribute to their own and the general ruine, whileſt the Land may become in fine a prey to the pow<g ref="char:EOLhyphen"/>erful and ambitious <hi>French;</hi> or be over-run by the rich, united, active, ſubtile <hi>Papiſts,</hi> betwixt whom and any <hi>Proteſtant</hi> there is no tye Religious, Moral, or Gene<g ref="char:EOLhyphen"/>rous.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:51070:6"/>
+            <!-- PDF PAGE 109 -->
+            <head>POSTSCRIPT.</head>
+            <p>I Thought fit to remark unto you (that there may be no miſtake in any that have a mind to object to my former Letter) how conſiderable a Party of Diſſenters were tollerated by the <hi>Jewes:</hi> For in all they are com<g ref="char:EOLhyphen"/>puted under <hi>Solomon</hi> to be above 150000 men, beſides women and children, 2 <hi>Chron.</hi> 2.17. a fair Number for <hi>Non-conformiſts</hi> to be in two or three <hi>Engliſh</hi> Counties.</p>
+            <p>If any are diſpleaſed at <hi>Calvin's</hi> ſaying St. <hi>George</hi> was an <hi>Arrian,</hi> I am afraid they will be more angry with <hi>Hottingerus,</hi> who (I think) in his Oriental Hiſtorie (pag. 100.) doth demonſtrate from the <hi>Turkiſh</hi> Wri<g ref="char:EOLhyphen"/>ters, that St. <hi>George</hi> was a <hi>Mahumetan;</hi> is one of the <hi>Turkiſh</hi> Saints: he was cut in pieces, and put into a pot to ſtew, and after that (ſay they) revived and liv<g ref="char:EOLhyphen"/>ed as a <hi>miraculous</hi> confirmation of the <hi>Muſulmens</hi> Faith.</p>
+            <p>Thus is our <hi>Calender</hi> filled with <hi>Jewes, Turks,</hi> and <hi>Papiſts,</hi> whilſt our <hi>Priſons</hi> are filled with <hi>Proteſtants.</hi>
+            </p>
+            <pb n="10" facs="tcp:51070:7"/>
+            <!-- PDF PAGE 110 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:51070:7"/>
+            <!-- PDF PAGE 110 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
